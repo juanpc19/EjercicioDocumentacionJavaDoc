@@ -1,6 +1,12 @@
 package clases;
 
+/**
+ * 
+ * @author jperez
+ *
+ */
 public class Contador {
+	
 	private int cont;
 	
 	//Constructor por defecto

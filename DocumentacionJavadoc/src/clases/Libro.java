@@ -1,5 +1,12 @@
 package clases;
 
+/**
+ * This method allow us to give value to different variables (titulo, autor, ejemplares, prestados), 
+ * and then  
+ * @author jperez
+ *
+ */
+
 public class Libro {
 	private String titulo;
 	private String autor;
